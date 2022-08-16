@@ -10,7 +10,7 @@ This instruction will get you the setup for FR BBCode syntax-highlighting and au
 Download and install [Notepad++](https://notepad-plus-plus.org/downloads/).
 
 ## Instalation
-1. Click on [BBCode_FR.xml](/BBCode_FR.xml) then on "Raw", it should lead to a page with the full code.
+1. Click on [BBCode_FR_Dark.xml](/BBCode_FR_Dark.xml) then on "Raw", it should lead to a page with the full code.
 2. Right click to save the page and it should save as an XML.
 3. Open Notepad++, Language -> User Defined Language -> Open User Defined Language folder and drag the XML to that folder. You should have BBCode listed on the bottom of the list.
 
