@@ -1,6 +1,4 @@
 # notepad-plus-plus-bbcode-flight-rising
-A Flight Rising-based BBCode language for syntax highlighting and auto-completion Notepad++.
-
 This was purely created because I kept searching for a proper BBCode language for Notepad++ and the only existing one was a very buggy, very messy language file with weird syntax highlighting. So I took on the adventure to create a brand-new BBCode language specifically based on Flight Rising's BBCode to make bio writing easier.
 
 As such, if you are looking for a full BBCode language for Notepad++, then I'm sorry to say that this is heavily based on Flight Rising's bio coding and contains the code limitations. However, you can use this code to somewhat get a grip of how a full BBCode language file could look and be like.
